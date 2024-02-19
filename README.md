@@ -1,5 +1,9 @@
 # Özelleştirilmiş Chatbot
-🚀 Gemini Pro ile Özelleştirilmiş PDF Chatbot Deneyimi!
+
+
+![gemininai](https://github.com/omersaidylmz/ChatPDF/assets/138215648/566fc4cf-0b8a-4af1-b5b5-d65077d4cdfb)
+
+# 🚀 Gemini Pro ile Özelleştirilmiş PDF Chatbot Deneyimi!
 
 Merhaba Github Ailesi! 👋
 
@@ -26,7 +30,5 @@ Proje sırasında, özellikle Türkçe dil desteği konusunda bazı zorluklarla 
 
 ## Geliştirme Süreci ve Öğrenimler:
 Chatbot'u geliştirirken dil işleme, özelleştirilmiş metin benzerlik algoritmaları ve chatbot tasarımı konularında büyük bir öğrenme deneyimi yaşadım. Sürekli geri bildirim alarak ve iyileştirmeler yaparak projeyi geliştirmeye devam ediyoruz.
-
-Projeyi daha yakından incelemek için GitHub repo'ya göz atabilirsiniz!
 
 Her türlü soru ve geri bildirimi bekliyorum. Kodlamaya devam! 🚀✨
